@@ -1,0 +1,19 @@
+.buttonclass{
+    background-color: aqua;
+    border-radius: 5vh;
+    color: blue;
+    margin-left: 15vh;
+}
+.buttonclass1{
+    background-color: red;
+    border-radius: 5vh;
+    color: black;
+}
+.formCss{
+    background-color: rgb(240,228,228);
+    color: black;
+    margin-left: 75vh;
+    border: 1px solid;
+    width: 50vh;
+    height: 60vh;
+}
